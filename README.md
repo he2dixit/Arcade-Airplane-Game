@@ -13,5 +13,3 @@ A simple arcade airplane shooting game built with Python, Pygame and with lots o
 ## Controls
 - Move: Arrow keys or A/D
 - Fire: Spacebar
-- Start Game: Enter
-- Quit Game: ESC (on Game Over screen)
